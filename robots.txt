@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://deveryday.github.io/sitemap.xml
